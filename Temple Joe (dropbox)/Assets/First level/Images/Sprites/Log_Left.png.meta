@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 2056d1b05e96a0447a29780161f53c8c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Log_Left_0
+    21300002: Log_Left_1
+    21300004: Log_Left_2
+    21300006: Log_Left_3
+    21300008: Log_Left_4
+    21300010: Log_Left_5
+    21300012: Log_Left_6
+    21300014: Log_Left_7
+    21300016: Log_Left_8
+    21300018: Log_Left_9
+    21300020: Log_Left_10
+    21300022: Log_Left_11
+    21300024: Log_Left_12
+    21300026: Log_Left_13
+    21300028: Log_Left_14
+    21300030: Log_Left_15
+    21300032: Log_Left_16
+    21300034: Log_Left_17
+    21300036: Log_Left_18
+    21300038: Log_Left_19
+    21300040: Log_Left_20
+    21300042: Log_Left_21
+    21300044: Log_Left_22
+    21300046: Log_Left_23
+    21300048: Log_Left_24
+    21300050: Log_Left_25
+    21300052: Log_Left_26
+    21300054: Log_Left_27
+    21300056: Log_Left_28
+    21300058: Log_Left_29
+    21300060: Log_Left_30
+    21300062: Log_Left_31
+    21300064: Log_Left_32
+    21300066: Log_Left_33
+    21300068: Log_Left_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Log_Left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1485
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1485
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1485
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1485
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1485
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_5
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1485
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1188
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1188
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1188
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_10
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1188
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_11
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1188
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 891
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 891
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 891
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 891
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_17
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 891
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 594
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_20
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 594
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_21
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 594
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_22
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 594
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 594
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 297
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 297
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_27
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 297
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_28
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 297
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_29
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 297
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_33
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Log_Left_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
